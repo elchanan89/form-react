@@ -11,7 +11,7 @@ class Field extends Component {
       this.props.onFieldChange(e.target.value, name);
     }
   
-    render() {
+    render() { 
   
       return (
         <div>
